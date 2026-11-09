@@ -1,0 +1,7 @@
+Matches: dropped 0 rows with missing values
+Matches: dropped 0 duplicate rows
+Goal check: raw=1246, clean=1246
+Players: dropped 0 rows with missing values
+Players: dropped 295 players with 0 minutes
+Players: dropped 0 duplicate rows
+Saved: 380 matches, 570 players

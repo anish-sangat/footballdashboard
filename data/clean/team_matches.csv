@@ -1,0 +1,761 @@
+Season,Date,Team,Opponent,Venue,GF,GA,Result,Points,GD,Match_No
+2023-24,2023-08-12 12:00:00,Arsenal,Nottingham Forest,Home,2,1,W,3,1,1
+2023-24,2023-08-21 19:00:00,Arsenal,Crystal Palace,Away,1,0,W,3,1,2
+2023-24,2023-08-26 14:00:00,Arsenal,Fulham,Home,2,2,D,1,0,3
+2023-24,2023-09-03 15:30:00,Arsenal,Manchester United,Home,3,1,W,3,2,4
+2023-24,2023-09-17 15:30:00,Arsenal,Everton,Away,1,0,W,3,1,5
+2023-24,2023-09-24 13:00:00,Arsenal,Tottenham Hotspur,Home,2,2,D,1,0,6
+2023-24,2023-09-30 14:00:00,Arsenal,Bournemouth,Away,4,0,W,3,4,7
+2023-24,2023-10-08 15:30:00,Arsenal,Manchester City,Home,1,0,W,3,1,8
+2023-24,2023-10-21 16:30:00,Arsenal,Chelsea,Away,2,2,D,1,0,9
+2023-24,2023-10-28 14:00:00,Arsenal,Sheffield United,Home,5,0,W,3,5,10
+2023-24,2023-11-04 17:30:00,Arsenal,Newcastle United,Away,0,1,L,0,-1,11
+2023-24,2023-11-11 15:00:00,Arsenal,Burnley,Home,3,1,W,3,2,12
+2023-24,2023-11-25 17:30:00,Arsenal,Brentford,Away,1,0,W,3,1,13
+2023-24,2023-12-02 15:00:00,Arsenal,Wolverhampton Wanderers,Home,2,1,W,3,1,14
+2023-24,2023-12-05 20:15:00,Arsenal,Luton Town,Away,4,3,W,3,1,15
+2023-24,2023-12-09 17:30:00,Arsenal,Aston Villa,Away,0,1,L,0,-1,16
+2023-24,2023-12-17 14:00:00,Arsenal,Brighton,Home,2,0,W,3,2,17
+2023-24,2023-12-23 17:30:00,Arsenal,Liverpool,Away,1,1,D,1,0,18
+2023-24,2023-12-28 20:15:00,Arsenal,West Ham United,Home,0,2,L,0,-2,19
+2023-24,2023-12-31 14:00:00,Arsenal,Fulham,Away,1,2,L,0,-1,20
+2023-24,2024-01-20 12:30:00,Arsenal,Crystal Palace,Home,5,0,W,3,5,21
+2023-24,2024-01-30 19:30:00,Arsenal,Nottingham Forest,Away,2,1,W,3,1,22
+2023-24,2024-02-04 16:30:00,Arsenal,Liverpool,Home,3,1,W,3,2,23
+2023-24,2024-02-11 14:00:00,Arsenal,West Ham United,Away,6,0,W,3,6,24
+2023-24,2024-02-17 15:00:00,Arsenal,Burnley,Away,5,0,W,3,5,25
+2023-24,2024-02-24 20:00:00,Arsenal,Newcastle United,Home,4,1,W,3,3,26
+2023-24,2024-03-04 20:00:00,Arsenal,Sheffield United,Away,6,0,W,3,6,27
+2023-24,2024-03-09 17:30:00,Arsenal,Brentford,Home,2,1,W,3,1,28
+2023-24,2024-03-31 15:30:00,Arsenal,Manchester City,Away,0,0,D,1,0,29
+2023-24,2024-04-03 18:30:00,Arsenal,Luton Town,Home,2,0,W,3,2,30
+2023-24,2024-04-06 16:30:00,Arsenal,Brighton,Away,3,0,W,3,3,31
+2023-24,2024-04-14 15:30:00,Arsenal,Aston Villa,Home,0,2,L,0,-2,32
+2023-24,2024-04-20 18:30:00,Arsenal,Wolverhampton Wanderers,Away,2,0,W,3,2,33
+2023-24,2024-04-23 19:00:00,Arsenal,Chelsea,Home,5,0,W,3,5,34
+2023-24,2024-04-28 13:00:00,Arsenal,Tottenham Hotspur,Away,3,2,W,3,1,35
+2023-24,2024-05-04 11:30:00,Arsenal,Bournemouth,Home,3,0,W,3,3,36
+2023-24,2024-05-12 15:30:00,Arsenal,Manchester United,Away,1,0,W,3,1,37
+2023-24,2024-05-19 15:00:00,Arsenal,Everton,Home,2,1,W,3,1,38
+2023-24,2023-08-12 16:30:00,Aston Villa,Newcastle United,Away,1,5,L,0,-4,1
+2023-24,2023-08-20 13:00:00,Aston Villa,Everton,Home,4,0,W,3,4,2
+2023-24,2023-08-27 13:00:00,Aston Villa,Burnley,Away,3,1,W,3,2,3
+2023-24,2023-09-03 13:00:00,Aston Villa,Liverpool,Away,0,3,L,0,-3,4
+2023-24,2023-09-16 14:00:00,Aston Villa,Crystal Palace,Home,3,1,W,3,2,5
+2023-24,2023-09-24 13:00:00,Aston Villa,Chelsea,Away,1,0,W,3,1,6
+2023-24,2023-09-30 11:30:00,Aston Villa,Brighton,Home,6,1,W,3,5,7
+2023-24,2023-10-08 13:00:00,Aston Villa,Wolverhampton Wanderers,Away,1,1,D,1,0,8
+2023-24,2023-10-22 15:30:00,Aston Villa,West Ham United,Home,4,1,W,3,3,9
+2023-24,2023-10-29 14:00:00,Aston Villa,Luton Town,Home,3,1,W,3,2,10
+2023-24,2023-11-05 14:00:00,Aston Villa,Nottingham Forest,Away,0,2,L,0,-2,11
+2023-24,2023-11-12 14:00:00,Aston Villa,Fulham,Home,3,1,W,3,2,12
+2023-24,2023-11-26 14:00:00,Aston Villa,Tottenham Hotspur,Away,2,1,W,3,1,13
+2023-24,2023-12-03 14:00:00,Aston Villa,Bournemouth,Away,2,2,D,1,0,14
+2023-24,2023-12-06 20:15:00,Aston Villa,Manchester City,Home,1,0,W,3,1,15
+2023-24,2023-12-09 17:30:00,Aston Villa,Arsenal,Home,1,0,W,3,1,16
+2023-24,2023-12-17 14:00:00,Aston Villa,Brentford,Away,2,1,W,3,1,17
+2023-24,2023-12-22 20:00:00,Aston Villa,Sheffield United,Home,1,1,D,1,0,18
+2023-24,2023-12-26 20:00:00,Aston Villa,Manchester United,Away,2,3,L,0,-1,19
+2023-24,2023-12-30 15:00:00,Aston Villa,Burnley,Home,3,2,W,3,1,20
+2023-24,2024-01-14 14:00:00,Aston Villa,Everton,Away,0,0,D,1,0,21
+2023-24,2024-01-30 20:15:00,Aston Villa,Newcastle United,Home,1,3,L,0,-2,22
+2023-24,2024-02-03 17:30:00,Aston Villa,Sheffield United,Away,5,0,W,3,5,23
+2023-24,2024-02-11 16:30:00,Aston Villa,Manchester United,Home,1,2,L,0,-1,24
+2023-24,2024-02-17 15:00:00,Aston Villa,Fulham,Away,2,1,W,3,1,25
+2023-24,2024-02-24 15:00:00,Aston Villa,Nottingham Forest,Home,4,2,W,3,2,26
+2023-24,2024-03-02 17:30:00,Aston Villa,Luton Town,Away,3,2,W,3,1,27
+2023-24,2024-03-10 13:00:00,Aston Villa,Tottenham Hotspur,Home,0,4,L,0,-4,28
+2023-24,2024-03-17 14:00:00,Aston Villa,West Ham United,Away,1,1,D,1,0,29
+2023-24,2024-03-30 17:30:00,Aston Villa,Wolverhampton Wanderers,Home,2,0,W,3,2,30
+2023-24,2024-04-03 19:15:00,Aston Villa,Manchester City,Away,1,4,L,0,-3,31
+2023-24,2024-04-06 14:00:00,Aston Villa,Brentford,Home,3,3,D,1,0,32
+2023-24,2024-04-14 15:30:00,Aston Villa,Arsenal,Away,2,0,W,3,2,33
+2023-24,2024-04-21 14:00:00,Aston Villa,Bournemouth,Home,3,1,W,3,2,34
+2023-24,2024-04-27 19:00:00,Aston Villa,Chelsea,Home,2,2,D,1,0,35
+2023-24,2024-05-05 13:00:00,Aston Villa,Brighton,Away,0,1,L,0,-1,36
+2023-24,2024-05-13 19:00:00,Aston Villa,Liverpool,Home,3,3,D,1,0,37
+2023-24,2024-05-19 15:00:00,Aston Villa,Crystal Palace,Away,0,5,L,0,-5,38
+2023-24,2023-08-12 14:00:00,Bournemouth,West Ham United,Home,1,1,D,1,0,1
+2023-24,2023-08-19 14:00:00,Bournemouth,Liverpool,Away,1,3,L,0,-2,2
+2023-24,2023-08-26 11:30:00,Bournemouth,Tottenham Hotspur,Home,0,2,L,0,-2,3
+2023-24,2023-09-02 14:00:00,Bournemouth,Brentford,Away,2,2,D,1,0,4
+2023-24,2023-09-17 13:00:00,Bournemouth,Chelsea,Home,0,0,D,1,0,5
+2023-24,2023-09-24 13:00:00,Bournemouth,Brighton,Away,1,3,L,0,-2,6
+2023-24,2023-09-30 14:00:00,Bournemouth,Arsenal,Home,0,4,L,0,-4,7
+2023-24,2023-10-07 14:00:00,Bournemouth,Everton,Away,0,3,L,0,-3,8
+2023-24,2023-10-21 14:00:00,Bournemouth,Wolverhampton Wanderers,Home,1,2,L,0,-1,9
+2023-24,2023-10-28 14:00:00,Bournemouth,Burnley,Home,2,1,W,3,1,10
+2023-24,2023-11-04 15:00:00,Bournemouth,Manchester City,Away,1,6,L,0,-5,11
+2023-24,2023-11-11 17:30:00,Bournemouth,Newcastle United,Home,2,0,W,3,2,12
+2023-24,2023-11-25 15:00:00,Bournemouth,Sheffield United,Away,3,1,W,3,2,13
+2023-24,2023-12-03 14:00:00,Bournemouth,Aston Villa,Home,2,2,D,1,0,14
+2023-24,2023-12-06 19:30:00,Bournemouth,Crystal Palace,Away,2,0,W,3,2,15
+2023-24,2023-12-09 15:00:00,Bournemouth,Manchester United,Away,3,0,W,3,3,16
+2023-24,2023-12-23 15:00:00,Bournemouth,Nottingham Forest,Away,3,2,W,3,1,17
+2023-24,2023-12-26 15:00:00,Bournemouth,Fulham,Home,3,0,W,3,3,18
+2023-24,2023-12-31 14:00:00,Bournemouth,Tottenham Hotspur,Away,1,3,L,0,-2,19
+2023-24,2024-01-21 16:30:00,Bournemouth,Liverpool,Home,0,4,L,0,-4,20
+2023-24,2024-02-01 19:30:00,Bournemouth,West Ham United,Away,1,1,D,1,0,21
+2023-24,2024-02-04 14:00:00,Bournemouth,Nottingham Forest,Home,1,1,D,1,0,22
+2023-24,2024-02-10 15:00:00,Bournemouth,Fulham,Away,1,3,L,0,-2,23
+2023-24,2024-02-17 15:00:00,Bournemouth,Newcastle United,Away,2,2,D,1,0,24
+2023-24,2024-02-24 17:30:00,Bournemouth,Manchester City,Home,0,1,L,0,-1,25
+2023-24,2024-03-03 13:00:00,Bournemouth,Burnley,Away,2,0,W,3,2,26
+2023-24,2024-03-09 15:00:00,Bournemouth,Sheffield United,Home,2,2,D,1,0,27
+2023-24,2024-03-13 19:30:00,Bournemouth,Luton Town,Home,4,3,W,3,1,28
+2023-24,2024-03-30 15:00:00,Bournemouth,Everton,Home,2,1,W,3,1,29
+2023-24,2024-04-02 18:45:00,Bournemouth,Crystal Palace,Home,1,0,W,3,1,30
+2023-24,2024-04-06 14:00:00,Bournemouth,Luton Town,Away,1,2,L,0,-1,31
+2023-24,2024-04-13 16:30:00,Bournemouth,Manchester United,Home,2,2,D,1,0,32
+2023-24,2024-04-21 14:00:00,Bournemouth,Aston Villa,Away,1,3,L,0,-2,33
+2023-24,2024-04-24 18:45:00,Bournemouth,Wolverhampton Wanderers,Away,1,0,W,3,1,34
+2023-24,2024-04-28 13:00:00,Bournemouth,Brighton,Home,3,0,W,3,3,35
+2023-24,2024-05-04 11:30:00,Bournemouth,Arsenal,Away,0,3,L,0,-3,36
+2023-24,2024-05-11 14:00:00,Bournemouth,Brentford,Home,1,2,L,0,-1,37
+2023-24,2024-05-19 15:00:00,Bournemouth,Chelsea,Away,1,2,L,0,-1,38
+2023-24,2023-08-13 13:00:00,Brentford,Tottenham Hotspur,Home,2,2,D,1,0,1
+2023-24,2023-08-19 14:00:00,Brentford,Fulham,Away,3,0,W,3,3,2
+2023-24,2023-08-26 14:00:00,Brentford,Crystal Palace,Home,1,1,D,1,0,3
+2023-24,2023-09-02 14:00:00,Brentford,Bournemouth,Home,2,2,D,1,0,4
+2023-24,2023-09-16 16:30:00,Brentford,Newcastle United,Away,0,1,L,0,-1,5
+2023-24,2023-09-23 16:30:00,Brentford,Everton,Home,1,3,L,0,-2,6
+2023-24,2023-10-01 13:00:00,Brentford,Nottingham Forest,Away,1,1,D,1,0,7
+2023-24,2023-10-07 14:00:00,Brentford,Manchester United,Away,1,2,L,0,-1,8
+2023-24,2023-10-21 14:00:00,Brentford,Burnley,Home,3,0,W,3,3,9
+2023-24,2023-10-28 11:30:00,Brentford,Chelsea,Away,2,0,W,3,2,10
+2023-24,2023-11-04 15:00:00,Brentford,West Ham United,Home,3,2,W,3,1,11
+2023-24,2023-11-12 14:00:00,Brentford,Liverpool,Away,0,3,L,0,-3,12
+2023-24,2023-11-25 17:30:00,Brentford,Arsenal,Home,0,1,L,0,-1,13
+2023-24,2023-12-02 15:00:00,Brentford,Luton Town,Home,3,1,W,3,2,14
+2023-24,2023-12-06 19:30:00,Brentford,Brighton,Away,1,2,L,0,-1,15
+2023-24,2023-12-09 15:00:00,Brentford,Sheffield United,Away,0,1,L,0,-1,16
+2023-24,2023-12-17 14:00:00,Brentford,Aston Villa,Home,1,2,L,0,-1,17
+2023-24,2023-12-27 19:30:00,Brentford,Wolverhampton Wanderers,Home,1,4,L,0,-3,18
+2023-24,2023-12-30 15:00:00,Brentford,Crystal Palace,Away,1,3,L,0,-2,19
+2023-24,2024-01-20 17:30:00,Brentford,Nottingham Forest,Home,3,2,W,3,1,20
+2023-24,2024-01-31 19:30:00,Brentford,Tottenham Hotspur,Away,2,3,L,0,-1,21
+2023-24,2024-02-05 20:00:00,Brentford,Manchester City,Home,1,3,L,0,-2,22
+2023-24,2024-02-10 15:00:00,Brentford,Wolverhampton Wanderers,Away,2,0,W,3,2,23
+2023-24,2024-02-17 12:30:00,Brentford,Liverpool,Home,1,4,L,0,-3,24
+2023-24,2024-02-20 19:30:00,Brentford,Manchester City,Away,0,1,L,0,-1,25
+2023-24,2024-02-26 20:00:00,Brentford,West Ham United,Away,2,4,L,0,-2,26
+2023-24,2024-03-02 15:00:00,Brentford,Chelsea,Home,2,2,D,1,0,27
+2023-24,2024-03-09 17:30:00,Brentford,Arsenal,Away,1,2,L,0,-1,28
+2023-24,2024-03-16 15:00:00,Brentford,Burnley,Away,1,2,L,0,-1,29
+2023-24,2024-03-30 20:00:00,Brentford,Manchester United,Home,1,1,D,1,0,30
+2023-24,2024-04-03 18:30:00,Brentford,Brighton,Home,0,0,D,1,0,31
+2023-24,2024-04-06 14:00:00,Brentford,Aston Villa,Away,3,3,D,1,0,32
+2023-24,2024-04-13 14:00:00,Brentford,Sheffield United,Home,2,0,W,3,2,33
+2023-24,2024-04-20 14:00:00,Brentford,Luton Town,Away,5,1,W,3,4,34
+2023-24,2024-04-27 16:30:00,Brentford,Everton,Away,0,1,L,0,-1,35
+2023-24,2024-05-04 14:00:00,Brentford,Fulham,Home,0,0,D,1,0,36
+2023-24,2024-05-11 14:00:00,Brentford,Bournemouth,Away,2,1,W,3,1,37
+2023-24,2024-05-19 15:00:00,Brentford,Newcastle United,Home,2,4,L,0,-2,38
+2023-24,2023-08-12 14:00:00,Brighton,Luton Town,Home,4,1,W,3,3,1
+2023-24,2023-08-19 14:00:00,Brighton,Wolverhampton Wanderers,Away,4,1,W,3,3,2
+2023-24,2023-08-26 16:30:00,Brighton,West Ham United,Home,1,3,L,0,-2,3
+2023-24,2023-09-02 16:30:00,Brighton,Newcastle United,Home,3,1,W,3,2,4
+2023-24,2023-09-16 14:00:00,Brighton,Manchester United,Away,3,1,W,3,2,5
+2023-24,2023-09-24 13:00:00,Brighton,Bournemouth,Home,3,1,W,3,2,6
+2023-24,2023-09-30 11:30:00,Brighton,Aston Villa,Away,1,6,L,0,-5,7
+2023-24,2023-10-08 13:00:00,Brighton,Liverpool,Home,2,2,D,1,0,8
+2023-24,2023-10-21 14:00:00,Brighton,Manchester City,Away,1,2,L,0,-1,9
+2023-24,2023-10-29 14:00:00,Brighton,Fulham,Home,1,1,D,1,0,10
+2023-24,2023-11-04 15:00:00,Brighton,Everton,Away,1,1,D,1,0,11
+2023-24,2023-11-12 14:00:00,Brighton,Sheffield United,Home,1,1,D,1,0,12
+2023-24,2023-11-25 15:00:00,Brighton,Nottingham Forest,Away,3,2,W,3,1,13
+2023-24,2023-12-03 14:00:00,Brighton,Chelsea,Away,2,3,L,0,-1,14
+2023-24,2023-12-06 19:30:00,Brighton,Brentford,Home,2,1,W,3,1,15
+2023-24,2023-12-09 15:00:00,Brighton,Burnley,Home,1,1,D,1,0,16
+2023-24,2023-12-17 14:00:00,Brighton,Arsenal,Away,0,2,L,0,-2,17
+2023-24,2023-12-21 20:00:00,Brighton,Crystal Palace,Away,1,1,D,1,0,18
+2023-24,2023-12-28 19:30:00,Brighton,Tottenham Hotspur,Home,4,2,W,3,2,19
+2023-24,2024-01-02 19:30:00,Brighton,West Ham United,Away,0,0,D,1,0,20
+2023-24,2024-01-22 19:45:00,Brighton,Wolverhampton Wanderers,Home,0,0,D,1,0,21
+2023-24,2024-01-30 19:45:00,Brighton,Luton Town,Away,0,4,L,0,-4,22
+2023-24,2024-02-03 15:00:00,Brighton,Crystal Palace,Home,4,1,W,3,3,23
+2023-24,2024-02-10 15:00:00,Brighton,Tottenham Hotspur,Away,1,2,L,0,-1,24
+2023-24,2024-02-18 14:00:00,Brighton,Sheffield United,Away,5,0,W,3,5,25
+2023-24,2024-02-24 15:00:00,Brighton,Everton,Home,1,1,D,1,0,26
+2023-24,2024-03-02 15:00:00,Brighton,Fulham,Away,0,3,L,0,-3,27
+2023-24,2024-03-10 14:00:00,Brighton,Nottingham Forest,Home,1,0,W,3,1,28
+2023-24,2024-03-31 13:00:00,Brighton,Liverpool,Away,1,2,L,0,-1,29
+2023-24,2024-04-03 18:30:00,Brighton,Brentford,Away,0,0,D,1,0,30
+2023-24,2024-04-06 16:30:00,Brighton,Arsenal,Home,0,3,L,0,-3,31
+2023-24,2024-04-13 14:00:00,Brighton,Burnley,Away,1,1,D,1,0,32
+2023-24,2024-04-25 19:00:00,Brighton,Manchester City,Home,0,4,L,0,-4,33
+2023-24,2024-04-28 13:00:00,Brighton,Bournemouth,Away,0,3,L,0,-3,34
+2023-24,2024-05-05 13:00:00,Brighton,Aston Villa,Home,1,0,W,3,1,35
+2023-24,2024-05-11 14:00:00,Brighton,Newcastle United,Away,1,1,D,1,0,36
+2023-24,2024-05-15 18:45:00,Brighton,Chelsea,Home,1,2,L,0,-1,37
+2023-24,2024-05-19 15:00:00,Brighton,Manchester United,Home,0,2,L,0,-2,38
+2023-24,2023-08-11 19:00:00,Burnley,Manchester City,Home,0,3,L,0,-3,1
+2023-24,2023-08-27 13:00:00,Burnley,Aston Villa,Home,1,3,L,0,-2,2
+2023-24,2023-09-02 14:00:00,Burnley,Tottenham Hotspur,Home,2,5,L,0,-3,3
+2023-24,2023-09-18 18:45:00,Burnley,Nottingham Forest,Away,1,1,D,1,0,4
+2023-24,2023-09-23 19:00:00,Burnley,Manchester United,Home,0,1,L,0,-1,5
+2023-24,2023-09-30 14:00:00,Burnley,Newcastle United,Away,0,2,L,0,-2,6
+2023-24,2023-10-03 18:30:00,Burnley,Luton Town,Away,2,1,W,3,1,7
+2023-24,2023-10-07 14:00:00,Burnley,Chelsea,Home,1,4,L,0,-3,8
+2023-24,2023-10-21 14:00:00,Burnley,Brentford,Away,0,3,L,0,-3,9
+2023-24,2023-10-28 14:00:00,Burnley,Bournemouth,Away,1,2,L,0,-1,10
+2023-24,2023-11-04 15:00:00,Burnley,Crystal Palace,Home,0,2,L,0,-2,11
+2023-24,2023-11-11 15:00:00,Burnley,Arsenal,Away,1,3,L,0,-2,12
+2023-24,2023-11-25 15:00:00,Burnley,West Ham United,Home,1,2,L,0,-1,13
+2023-24,2023-12-02 15:00:00,Burnley,Sheffield United,Home,5,0,W,3,5,14
+2023-24,2023-12-05 19:30:00,Burnley,Wolverhampton Wanderers,Away,0,1,L,0,-1,15
+2023-24,2023-12-09 15:00:00,Burnley,Brighton,Away,1,1,D,1,0,16
+2023-24,2023-12-16 17:30:00,Burnley,Everton,Home,0,2,L,0,-2,17
+2023-24,2023-12-23 15:00:00,Burnley,Fulham,Away,2,0,W,3,2,18
+2023-24,2023-12-26 17:30:00,Burnley,Liverpool,Home,0,2,L,0,-2,19
+2023-24,2023-12-30 15:00:00,Burnley,Aston Villa,Away,2,3,L,0,-1,20
+2023-24,2024-01-12 19:45:00,Burnley,Luton Town,Home,1,1,D,1,0,21
+2023-24,2024-01-31 19:30:00,Burnley,Manchester City,Away,1,3,L,0,-2,22
+2023-24,2024-02-03 15:00:00,Burnley,Fulham,Home,2,2,D,1,0,23
+2023-24,2024-02-10 15:00:00,Burnley,Liverpool,Away,1,3,L,0,-2,24
+2023-24,2024-02-17 15:00:00,Burnley,Arsenal,Home,0,5,L,0,-5,25
+2023-24,2024-02-24 15:00:00,Burnley,Crystal Palace,Away,0,3,L,0,-3,26
+2023-24,2024-03-03 13:00:00,Burnley,Bournemouth,Home,0,2,L,0,-2,27
+2023-24,2024-03-10 14:00:00,Burnley,West Ham United,Away,2,2,D,1,0,28
+2023-24,2024-03-16 15:00:00,Burnley,Brentford,Home,2,1,W,3,1,29
+2023-24,2024-03-30 15:00:00,Burnley,Chelsea,Away,2,2,D,1,0,30
+2023-24,2024-04-02 18:45:00,Burnley,Wolverhampton Wanderers,Home,1,1,D,1,0,31
+2023-24,2024-04-06 14:00:00,Burnley,Everton,Away,0,1,L,0,-1,32
+2023-24,2024-04-13 14:00:00,Burnley,Brighton,Home,1,1,D,1,0,33
+2023-24,2024-04-20 14:00:00,Burnley,Sheffield United,Away,4,1,W,3,3,34
+2023-24,2024-04-27 14:00:00,Burnley,Manchester United,Away,1,1,D,1,0,35
+2023-24,2024-05-04 14:00:00,Burnley,Newcastle United,Home,1,4,L,0,-3,36
+2023-24,2024-05-11 14:00:00,Burnley,Tottenham Hotspur,Away,1,2,L,0,-1,37
+2023-24,2024-05-19 15:00:00,Burnley,Nottingham Forest,Home,1,2,L,0,-1,38
+2023-24,2023-08-13 15:30:00,Chelsea,Liverpool,Home,1,1,D,1,0,1
+2023-24,2023-08-20 15:30:00,Chelsea,West Ham United,Away,1,3,L,0,-2,2
+2023-24,2023-08-25 19:00:00,Chelsea,Luton Town,Home,3,0,W,3,3,3
+2023-24,2023-09-02 14:00:00,Chelsea,Nottingham Forest,Home,0,1,L,0,-1,4
+2023-24,2023-09-17 13:00:00,Chelsea,Bournemouth,Away,0,0,D,1,0,5
+2023-24,2023-09-24 13:00:00,Chelsea,Aston Villa,Home,0,1,L,0,-1,6
+2023-24,2023-10-02 19:00:00,Chelsea,Fulham,Away,2,0,W,3,2,7
+2023-24,2023-10-07 14:00:00,Chelsea,Burnley,Away,4,1,W,3,3,8
+2023-24,2023-10-21 16:30:00,Chelsea,Arsenal,Home,2,2,D,1,0,9
+2023-24,2023-10-28 11:30:00,Chelsea,Brentford,Home,0,2,L,0,-2,10
+2023-24,2023-11-06 20:00:00,Chelsea,Tottenham Hotspur,Away,4,1,W,3,3,11
+2023-24,2023-11-12 16:30:00,Chelsea,Manchester City,Home,4,4,D,1,0,12
+2023-24,2023-11-25 15:00:00,Chelsea,Newcastle United,Away,1,4,L,0,-3,13
+2023-24,2023-12-03 14:00:00,Chelsea,Brighton,Home,3,2,W,3,1,14
+2023-24,2023-12-06 20:15:00,Chelsea,Manchester United,Away,1,2,L,0,-1,15
+2023-24,2023-12-10 14:00:00,Chelsea,Everton,Away,0,2,L,0,-2,16
+2023-24,2023-12-16 15:00:00,Chelsea,Sheffield United,Home,2,0,W,3,2,17
+2023-24,2023-12-24 13:00:00,Chelsea,Wolverhampton Wanderers,Away,1,2,L,0,-1,18
+2023-24,2023-12-27 19:30:00,Chelsea,Crystal Palace,Home,2,1,W,3,1,19
+2023-24,2023-12-30 12:30:00,Chelsea,Luton Town,Away,3,2,W,3,1,20
+2023-24,2024-01-13 12:30:00,Chelsea,Fulham,Home,1,0,W,3,1,21
+2023-24,2024-01-31 20:15:00,Chelsea,Liverpool,Away,1,4,L,0,-3,22
+2023-24,2024-02-04 14:00:00,Chelsea,Wolverhampton Wanderers,Home,2,4,L,0,-2,23
+2023-24,2024-02-12 20:00:00,Chelsea,Crystal Palace,Away,3,1,W,3,2,24
+2023-24,2024-02-17 17:30:00,Chelsea,Manchester City,Away,1,1,D,1,0,25
+2023-24,2024-03-02 15:00:00,Chelsea,Brentford,Away,2,2,D,1,0,26
+2023-24,2024-03-11 20:00:00,Chelsea,Newcastle United,Home,3,2,W,3,1,27
+2023-24,2024-03-30 15:00:00,Chelsea,Burnley,Home,2,2,D,1,0,28
+2023-24,2024-04-04 19:15:00,Chelsea,Manchester United,Home,4,3,W,3,1,29
+2023-24,2024-04-07 16:30:00,Chelsea,Sheffield United,Away,2,2,D,1,0,30
+2023-24,2024-04-15 19:00:00,Chelsea,Everton,Home,6,0,W,3,6,31
+2023-24,2024-04-23 19:00:00,Chelsea,Arsenal,Away,0,5,L,0,-5,32
+2023-24,2024-04-27 19:00:00,Chelsea,Aston Villa,Away,2,2,D,1,0,33
+2023-24,2024-05-02 18:30:00,Chelsea,Tottenham Hotspur,Home,2,0,W,3,2,34
+2023-24,2024-05-05 13:00:00,Chelsea,West Ham United,Home,5,0,W,3,5,35
+2023-24,2024-05-11 16:30:00,Chelsea,Nottingham Forest,Away,3,2,W,3,1,36
+2023-24,2024-05-15 18:45:00,Chelsea,Brighton,Away,2,1,W,3,1,37
+2023-24,2024-05-19 15:00:00,Chelsea,Bournemouth,Home,2,1,W,3,1,38
+2023-24,2023-08-12 14:00:00,Crystal Palace,Sheffield United,Away,1,0,W,3,1,1
+2023-24,2023-08-21 19:00:00,Crystal Palace,Arsenal,Home,0,1,L,0,-1,2
+2023-24,2023-08-26 14:00:00,Crystal Palace,Brentford,Away,1,1,D,1,0,3
+2023-24,2023-09-03 13:00:00,Crystal Palace,Wolverhampton Wanderers,Home,3,2,W,3,1,4
+2023-24,2023-09-16 14:00:00,Crystal Palace,Aston Villa,Away,1,3,L,0,-2,5
+2023-24,2023-09-23 14:00:00,Crystal Palace,Fulham,Home,0,0,D,1,0,6
+2023-24,2023-09-30 14:00:00,Crystal Palace,Manchester United,Away,1,0,W,3,1,7
+2023-24,2023-10-07 16:30:00,Crystal Palace,Nottingham Forest,Home,0,0,D,1,0,8
+2023-24,2023-10-21 14:00:00,Crystal Palace,Newcastle United,Away,0,4,L,0,-4,9
+2023-24,2023-10-27 19:00:00,Crystal Palace,Tottenham Hotspur,Home,1,2,L,0,-1,10
+2023-24,2023-11-04 15:00:00,Crystal Palace,Burnley,Away,2,0,W,3,2,11
+2023-24,2023-11-11 15:00:00,Crystal Palace,Everton,Home,2,3,L,0,-1,12
+2023-24,2023-11-25 15:00:00,Crystal Palace,Luton Town,Away,1,2,L,0,-1,13
+2023-24,2023-12-03 14:00:00,Crystal Palace,West Ham United,Away,1,1,D,1,0,14
+2023-24,2023-12-06 19:30:00,Crystal Palace,Bournemouth,Home,0,2,L,0,-2,15
+2023-24,2023-12-09 12:30:00,Crystal Palace,Liverpool,Home,1,2,L,0,-1,16
+2023-24,2023-12-16 15:00:00,Crystal Palace,Manchester City,Away,2,2,D,1,0,17
+2023-24,2023-12-21 20:00:00,Crystal Palace,Brighton,Home,1,1,D,1,0,18
+2023-24,2023-12-27 19:30:00,Crystal Palace,Chelsea,Away,1,2,L,0,-1,19
+2023-24,2023-12-30 15:00:00,Crystal Palace,Brentford,Home,3,1,W,3,2,20
+2023-24,2024-01-20 12:30:00,Crystal Palace,Arsenal,Away,0,5,L,0,-5,21
+2023-24,2024-01-30 20:00:00,Crystal Palace,Sheffield United,Home,3,2,W,3,1,22
+2023-24,2024-02-03 15:00:00,Crystal Palace,Brighton,Away,1,4,L,0,-3,23
+2023-24,2024-02-12 20:00:00,Crystal Palace,Chelsea,Home,1,3,L,0,-2,24
+2023-24,2024-02-19 20:00:00,Crystal Palace,Everton,Away,1,1,D,1,0,25
+2023-24,2024-02-24 15:00:00,Crystal Palace,Burnley,Home,3,0,W,3,3,26
+2023-24,2024-03-02 15:00:00,Crystal Palace,Tottenham Hotspur,Away,1,3,L,0,-2,27
+2023-24,2024-03-09 15:00:00,Crystal Palace,Luton Town,Home,1,1,D,1,0,28
+2023-24,2024-03-30 15:00:00,Crystal Palace,Nottingham Forest,Away,1,1,D,1,0,29
+2023-24,2024-04-02 18:45:00,Crystal Palace,Bournemouth,Away,0,1,L,0,-1,30
+2023-24,2024-04-06 11:30:00,Crystal Palace,Manchester City,Home,2,4,L,0,-2,31
+2023-24,2024-04-14 13:00:00,Crystal Palace,Liverpool,Away,1,0,W,3,1,32
+2023-24,2024-04-21 14:00:00,Crystal Palace,West Ham United,Home,5,2,W,3,3,33
+2023-24,2024-04-24 19:00:00,Crystal Palace,Newcastle United,Home,2,0,W,3,2,34
+2023-24,2024-04-27 14:00:00,Crystal Palace,Fulham,Away,1,1,D,1,0,35
+2023-24,2024-05-06 19:00:00,Crystal Palace,Manchester United,Home,4,0,W,3,4,36
+2023-24,2024-05-11 14:00:00,Crystal Palace,Wolverhampton Wanderers,Away,3,1,W,3,2,37
+2023-24,2024-05-19 15:00:00,Crystal Palace,Aston Villa,Home,5,0,W,3,5,38
+2023-24,2023-08-12 14:00:00,Everton,Fulham,Home,0,1,L,0,-1,1
+2023-24,2023-08-20 13:00:00,Everton,Aston Villa,Away,0,4,L,0,-4,2
+2023-24,2023-08-26 14:00:00,Everton,Wolverhampton Wanderers,Home,0,1,L,0,-1,3
+2023-24,2023-09-02 11:30:00,Everton,Sheffield United,Away,2,2,D,1,0,4
+2023-24,2023-09-17 15:30:00,Everton,Arsenal,Home,0,1,L,0,-1,5
+2023-24,2023-09-23 16:30:00,Everton,Brentford,Away,3,1,W,3,2,6
+2023-24,2023-09-30 14:00:00,Everton,Luton Town,Home,1,2,L,0,-1,7
+2023-24,2023-10-07 14:00:00,Everton,Bournemouth,Home,3,0,W,3,3,8
+2023-24,2023-10-21 11:30:00,Everton,Liverpool,Away,0,2,L,0,-2,9
+2023-24,2023-10-29 13:00:00,Everton,West Ham United,Away,1,0,W,3,1,10
+2023-24,2023-11-04 15:00:00,Everton,Brighton,Home,1,1,D,1,0,11
+2023-24,2023-11-11 15:00:00,Everton,Crystal Palace,Away,3,2,W,3,1,12
+2023-24,2023-11-26 16:30:00,Everton,Manchester United,Home,0,3,L,0,-3,13
+2023-24,2023-12-02 17:30:00,Everton,Nottingham Forest,Away,1,0,W,3,1,14
+2023-24,2023-12-07 19:30:00,Everton,Newcastle United,Home,3,0,W,3,3,15
+2023-24,2023-12-10 14:00:00,Everton,Chelsea,Home,2,0,W,3,2,16
+2023-24,2023-12-16 17:30:00,Everton,Burnley,Away,2,0,W,3,2,17
+2023-24,2023-12-23 15:00:00,Everton,Tottenham Hotspur,Away,1,2,L,0,-1,18
+2023-24,2023-12-27 20:15:00,Everton,Manchester City,Home,1,3,L,0,-2,19
+2023-24,2023-12-30 15:00:00,Everton,Wolverhampton Wanderers,Away,0,3,L,0,-3,20
+2023-24,2024-01-14 14:00:00,Everton,Aston Villa,Home,0,0,D,1,0,21
+2023-24,2024-01-30 19:45:00,Everton,Fulham,Away,0,0,D,1,0,22
+2023-24,2024-02-03 12:30:00,Everton,Tottenham Hotspur,Home,2,2,D,1,0,23
+2023-24,2024-02-10 12:30:00,Everton,Manchester City,Away,0,2,L,0,-2,24
+2023-24,2024-02-19 20:00:00,Everton,Crystal Palace,Home,1,1,D,1,0,25
+2023-24,2024-02-24 15:00:00,Everton,Brighton,Away,1,1,D,1,0,26
+2023-24,2024-03-02 15:00:00,Everton,West Ham United,Home,1,3,L,0,-2,27
+2023-24,2024-03-09 12:30:00,Everton,Manchester United,Away,0,2,L,0,-2,28
+2023-24,2024-03-30 15:00:00,Everton,Bournemouth,Away,1,2,L,0,-1,29
+2023-24,2024-04-02 18:30:00,Everton,Newcastle United,Away,1,1,D,1,0,30
+2023-24,2024-04-06 14:00:00,Everton,Burnley,Home,1,0,W,3,1,31
+2023-24,2024-04-15 19:00:00,Everton,Chelsea,Away,0,6,L,0,-6,32
+2023-24,2024-04-21 12:30:00,Everton,Nottingham Forest,Home,2,0,W,3,2,33
+2023-24,2024-04-24 19:00:00,Everton,Liverpool,Home,2,0,W,3,2,34
+2023-24,2024-04-27 16:30:00,Everton,Brentford,Home,1,0,W,3,1,35
+2023-24,2024-05-03 19:00:00,Everton,Luton Town,Away,1,1,D,1,0,36
+2023-24,2024-05-11 14:00:00,Everton,Sheffield United,Home,1,0,W,3,1,37
+2023-24,2024-05-19 15:00:00,Everton,Arsenal,Away,1,2,L,0,-1,38
+2023-24,2023-08-12 14:00:00,Fulham,Everton,Away,1,0,W,3,1,1
+2023-24,2023-08-19 14:00:00,Fulham,Brentford,Home,0,3,L,0,-3,2
+2023-24,2023-08-26 14:00:00,Fulham,Arsenal,Away,2,2,D,1,0,3
+2023-24,2023-09-02 14:00:00,Fulham,Manchester City,Away,1,5,L,0,-4,4
+2023-24,2023-09-16 14:00:00,Fulham,Luton Town,Home,1,0,W,3,1,5
+2023-24,2023-09-23 14:00:00,Fulham,Crystal Palace,Away,0,0,D,1,0,6
+2023-24,2023-10-02 19:00:00,Fulham,Chelsea,Home,0,2,L,0,-2,7
+2023-24,2023-10-07 14:00:00,Fulham,Sheffield United,Home,3,1,W,3,2,8
+2023-24,2023-10-23 19:00:00,Fulham,Tottenham Hotspur,Away,0,2,L,0,-2,9
+2023-24,2023-10-29 14:00:00,Fulham,Brighton,Away,1,1,D,1,0,10
+2023-24,2023-11-04 12:30:00,Fulham,Manchester United,Home,0,1,L,0,-1,11
+2023-24,2023-11-12 14:00:00,Fulham,Aston Villa,Away,1,3,L,0,-2,12
+2023-24,2023-11-27 20:00:00,Fulham,Wolverhampton Wanderers,Home,3,2,W,3,1,13
+2023-24,2023-12-03 14:00:00,Fulham,Liverpool,Away,3,4,L,0,-1,14
+2023-24,2023-12-06 19:30:00,Fulham,Nottingham Forest,Home,5,0,W,3,5,15
+2023-24,2023-12-10 14:00:00,Fulham,West Ham United,Home,5,0,W,3,5,16
+2023-24,2023-12-16 15:00:00,Fulham,Newcastle United,Away,0,3,L,0,-3,17
+2023-24,2023-12-23 15:00:00,Fulham,Burnley,Home,0,2,L,0,-2,18
+2023-24,2023-12-26 15:00:00,Fulham,Bournemouth,Away,0,3,L,0,-3,19
+2023-24,2023-12-31 14:00:00,Fulham,Arsenal,Home,2,1,W,3,1,20
+2023-24,2024-01-13 12:30:00,Fulham,Chelsea,Away,0,1,L,0,-1,21
+2023-24,2024-01-30 19:45:00,Fulham,Everton,Home,0,0,D,1,0,22
+2023-24,2024-02-03 15:00:00,Fulham,Burnley,Away,2,2,D,1,0,23
+2023-24,2024-02-10 15:00:00,Fulham,Bournemouth,Home,3,1,W,3,2,24
+2023-24,2024-02-17 15:00:00,Fulham,Aston Villa,Home,1,2,L,0,-1,25
+2023-24,2024-02-24 15:00:00,Fulham,Manchester United,Away,2,1,W,3,1,26
+2023-24,2024-03-02 15:00:00,Fulham,Brighton,Home,3,0,W,3,3,27
+2023-24,2024-03-09 15:00:00,Fulham,Wolverhampton Wanderers,Away,1,2,L,0,-1,28
+2023-24,2024-03-16 17:30:00,Fulham,Tottenham Hotspur,Home,3,0,W,3,3,29
+2023-24,2024-03-30 15:00:00,Fulham,Sheffield United,Away,3,3,D,1,0,30
+2023-24,2024-04-02 18:30:00,Fulham,Nottingham Forest,Away,1,3,L,0,-2,31
+2023-24,2024-04-06 14:00:00,Fulham,Newcastle United,Home,0,1,L,0,-1,32
+2023-24,2024-04-14 13:00:00,Fulham,West Ham United,Away,2,0,W,3,2,33
+2023-24,2024-04-21 15:30:00,Fulham,Liverpool,Home,1,3,L,0,-2,34
+2023-24,2024-04-27 14:00:00,Fulham,Crystal Palace,Home,1,1,D,1,0,35
+2023-24,2024-05-04 14:00:00,Fulham,Brentford,Away,0,0,D,1,0,36
+2023-24,2024-05-11 11:30:00,Fulham,Manchester City,Home,0,4,L,0,-4,37
+2023-24,2024-05-19 15:00:00,Fulham,Luton Town,Away,4,2,W,3,2,38
+2023-24,2023-08-13 15:30:00,Liverpool,Chelsea,Away,1,1,D,1,0,1
+2023-24,2023-08-19 14:00:00,Liverpool,Bournemouth,Home,3,1,W,3,2,2
+2023-24,2023-08-27 15:30:00,Liverpool,Newcastle United,Away,2,1,W,3,1,3
+2023-24,2023-09-03 13:00:00,Liverpool,Aston Villa,Home,3,0,W,3,3,4
+2023-24,2023-09-16 11:30:00,Liverpool,Wolverhampton Wanderers,Away,3,1,W,3,2,5
+2023-24,2023-09-24 13:00:00,Liverpool,West Ham United,Home,3,1,W,3,2,6
+2023-24,2023-09-30 16:30:00,Liverpool,Tottenham Hotspur,Away,1,2,L,0,-1,7
+2023-24,2023-10-08 13:00:00,Liverpool,Brighton,Away,2,2,D,1,0,8
+2023-24,2023-10-21 11:30:00,Liverpool,Everton,Home,2,0,W,3,2,9
+2023-24,2023-10-29 14:00:00,Liverpool,Nottingham Forest,Home,3,0,W,3,3,10
+2023-24,2023-11-05 16:30:00,Liverpool,Luton Town,Away,1,1,D,1,0,11
+2023-24,2023-11-12 14:00:00,Liverpool,Brentford,Home,3,0,W,3,3,12
+2023-24,2023-11-25 12:30:00,Liverpool,Manchester City,Away,1,1,D,1,0,13
+2023-24,2023-12-03 14:00:00,Liverpool,Fulham,Home,4,3,W,3,1,14
+2023-24,2023-12-06 19:30:00,Liverpool,Sheffield United,Away,2,0,W,3,2,15
+2023-24,2023-12-09 12:30:00,Liverpool,Crystal Palace,Away,2,1,W,3,1,16
+2023-24,2023-12-17 16:30:00,Liverpool,Manchester United,Home,0,0,D,1,0,17
+2023-24,2023-12-23 17:30:00,Liverpool,Arsenal,Home,1,1,D,1,0,18
+2023-24,2023-12-26 17:30:00,Liverpool,Burnley,Away,2,0,W,3,2,19
+2023-24,2024-01-01 20:00:00,Liverpool,Newcastle United,Home,4,2,W,3,2,20
+2023-24,2024-01-21 16:30:00,Liverpool,Bournemouth,Away,4,0,W,3,4,21
+2023-24,2024-01-31 20:15:00,Liverpool,Chelsea,Home,4,1,W,3,3,22
+2023-24,2024-02-04 16:30:00,Liverpool,Arsenal,Away,1,3,L,0,-2,23
+2023-24,2024-02-10 15:00:00,Liverpool,Burnley,Home,3,1,W,3,2,24
+2023-24,2024-02-17 12:30:00,Liverpool,Brentford,Away,4,1,W,3,3,25
+2023-24,2024-02-21 19:30:00,Liverpool,Luton Town,Home,4,1,W,3,3,26
+2023-24,2024-03-02 15:00:00,Liverpool,Nottingham Forest,Away,1,0,W,3,1,27
+2023-24,2024-03-10 15:45:00,Liverpool,Manchester City,Home,1,1,D,1,0,28
+2023-24,2024-03-31 13:00:00,Liverpool,Brighton,Home,2,1,W,3,1,29
+2023-24,2024-04-04 18:30:00,Liverpool,Sheffield United,Home,3,1,W,3,2,30
+2023-24,2024-04-07 14:30:00,Liverpool,Manchester United,Away,2,2,D,1,0,31
+2023-24,2024-04-14 13:00:00,Liverpool,Crystal Palace,Home,0,1,L,0,-1,32
+2023-24,2024-04-21 15:30:00,Liverpool,Fulham,Away,3,1,W,3,2,33
+2023-24,2024-04-24 19:00:00,Liverpool,Everton,Away,0,2,L,0,-2,34
+2023-24,2024-04-27 11:30:00,Liverpool,West Ham United,Away,2,2,D,1,0,35
+2023-24,2024-05-05 15:30:00,Liverpool,Tottenham Hotspur,Home,4,2,W,3,2,36
+2023-24,2024-05-13 19:00:00,Liverpool,Aston Villa,Away,3,3,D,1,0,37
+2023-24,2024-05-19 15:00:00,Liverpool,Wolverhampton Wanderers,Home,2,0,W,3,2,38
+2023-24,2023-08-12 14:00:00,Luton Town,Brighton,Away,1,4,L,0,-3,1
+2023-24,2023-08-25 19:00:00,Luton Town,Chelsea,Away,0,3,L,0,-3,2
+2023-24,2023-09-01 19:00:00,Luton Town,West Ham United,Home,1,2,L,0,-1,3
+2023-24,2023-09-16 14:00:00,Luton Town,Fulham,Away,0,1,L,0,-1,4
+2023-24,2023-09-23 14:00:00,Luton Town,Wolverhampton Wanderers,Home,1,1,D,1,0,5
+2023-24,2023-09-30 14:00:00,Luton Town,Everton,Away,2,1,W,3,1,6
+2023-24,2023-10-03 18:30:00,Luton Town,Burnley,Home,1,2,L,0,-1,7
+2023-24,2023-10-07 11:30:00,Luton Town,Tottenham Hotspur,Home,0,1,L,0,-1,8
+2023-24,2023-10-21 14:00:00,Luton Town,Nottingham Forest,Away,2,2,D,1,0,9
+2023-24,2023-10-29 14:00:00,Luton Town,Aston Villa,Away,1,3,L,0,-2,10
+2023-24,2023-11-05 16:30:00,Luton Town,Liverpool,Home,1,1,D,1,0,11
+2023-24,2023-11-11 15:00:00,Luton Town,Manchester United,Away,0,1,L,0,-1,12
+2023-24,2023-11-25 15:00:00,Luton Town,Crystal Palace,Home,2,1,W,3,1,13
+2023-24,2023-12-02 15:00:00,Luton Town,Brentford,Away,1,3,L,0,-2,14
+2023-24,2023-12-05 20:15:00,Luton Town,Arsenal,Home,3,4,L,0,-1,15
+2023-24,2023-12-10 14:00:00,Luton Town,Manchester City,Home,1,2,L,0,-1,16
+2023-24,2023-12-23 15:00:00,Luton Town,Newcastle United,Home,1,0,W,3,1,17
+2023-24,2023-12-26 15:00:00,Luton Town,Sheffield United,Away,3,2,W,3,1,18
+2023-24,2023-12-30 12:30:00,Luton Town,Chelsea,Home,2,3,L,0,-1,19
+2023-24,2024-01-12 19:45:00,Luton Town,Burnley,Away,1,1,D,1,0,20
+2023-24,2024-01-30 19:45:00,Luton Town,Brighton,Home,4,0,W,3,4,21
+2023-24,2024-02-03 15:00:00,Luton Town,Newcastle United,Away,4,4,D,1,0,22
+2023-24,2024-02-10 15:00:00,Luton Town,Sheffield United,Home,1,3,L,0,-2,23
+2023-24,2024-02-18 16:30:00,Luton Town,Manchester United,Home,1,2,L,0,-1,24
+2023-24,2024-02-21 19:30:00,Luton Town,Liverpool,Away,1,4,L,0,-3,25
+2023-24,2024-03-02 17:30:00,Luton Town,Aston Villa,Home,2,3,L,0,-1,26
+2023-24,2024-03-09 15:00:00,Luton Town,Crystal Palace,Away,1,1,D,1,0,27
+2023-24,2024-03-13 19:30:00,Luton Town,Bournemouth,Away,3,4,L,0,-1,28
+2023-24,2024-03-16 15:00:00,Luton Town,Nottingham Forest,Home,1,1,D,1,0,29
+2023-24,2024-03-30 15:00:00,Luton Town,Tottenham Hotspur,Away,1,2,L,0,-1,30
+2023-24,2024-04-03 18:30:00,Luton Town,Arsenal,Away,0,2,L,0,-2,31
+2023-24,2024-04-06 14:00:00,Luton Town,Bournemouth,Home,2,1,W,3,1,32
+2023-24,2024-04-13 14:00:00,Luton Town,Manchester City,Away,1,5,L,0,-4,33
+2023-24,2024-04-20 14:00:00,Luton Town,Brentford,Home,1,5,L,0,-4,34
+2023-24,2024-04-27 14:00:00,Luton Town,Wolverhampton Wanderers,Away,1,2,L,0,-1,35
+2023-24,2024-05-03 19:00:00,Luton Town,Everton,Home,1,1,D,1,0,36
+2023-24,2024-05-11 14:00:00,Luton Town,West Ham United,Away,1,3,L,0,-2,37
+2023-24,2024-05-19 15:00:00,Luton Town,Fulham,Home,2,4,L,0,-2,38
+2023-24,2023-08-11 19:00:00,Manchester City,Burnley,Away,3,0,W,3,3,1
+2023-24,2023-08-19 19:00:00,Manchester City,Newcastle United,Home,1,0,W,3,1,2
+2023-24,2023-08-27 13:00:00,Manchester City,Sheffield United,Away,2,1,W,3,1,3
+2023-24,2023-09-02 14:00:00,Manchester City,Fulham,Home,5,1,W,3,4,4
+2023-24,2023-09-16 14:00:00,Manchester City,West Ham United,Away,3,1,W,3,2,5
+2023-24,2023-09-23 14:00:00,Manchester City,Nottingham Forest,Home,2,0,W,3,2,6
+2023-24,2023-09-30 14:00:00,Manchester City,Wolverhampton Wanderers,Away,1,2,L,0,-1,7
+2023-24,2023-10-08 15:30:00,Manchester City,Arsenal,Away,0,1,L,0,-1,8
+2023-24,2023-10-21 14:00:00,Manchester City,Brighton,Home,2,1,W,3,1,9
+2023-24,2023-10-29 15:30:00,Manchester City,Manchester United,Away,3,0,W,3,3,10
+2023-24,2023-11-04 15:00:00,Manchester City,Bournemouth,Home,6,1,W,3,5,11
+2023-24,2023-11-12 16:30:00,Manchester City,Chelsea,Away,4,4,D,1,0,12
+2023-24,2023-11-25 12:30:00,Manchester City,Liverpool,Home,1,1,D,1,0,13
+2023-24,2023-12-03 16:30:00,Manchester City,Tottenham Hotspur,Home,3,3,D,1,0,14
+2023-24,2023-12-06 20:15:00,Manchester City,Aston Villa,Away,0,1,L,0,-1,15
+2023-24,2023-12-10 14:00:00,Manchester City,Luton Town,Away,2,1,W,3,1,16
+2023-24,2023-12-16 15:00:00,Manchester City,Crystal Palace,Home,2,2,D,1,0,17
+2023-24,2023-12-27 20:15:00,Manchester City,Everton,Away,3,1,W,3,2,18
+2023-24,2023-12-30 15:00:00,Manchester City,Sheffield United,Home,2,0,W,3,2,19
+2023-24,2024-01-13 17:30:00,Manchester City,Newcastle United,Away,3,2,W,3,1,20
+2023-24,2024-01-31 19:30:00,Manchester City,Burnley,Home,3,1,W,3,2,21
+2023-24,2024-02-05 20:00:00,Manchester City,Brentford,Away,3,1,W,3,2,22
+2023-24,2024-02-10 12:30:00,Manchester City,Everton,Home,2,0,W,3,2,23
+2023-24,2024-02-17 17:30:00,Manchester City,Chelsea,Home,1,1,D,1,0,24
+2023-24,2024-02-20 19:30:00,Manchester City,Brentford,Home,1,0,W,3,1,25
+2023-24,2024-02-24 17:30:00,Manchester City,Bournemouth,Away,1,0,W,3,1,26
+2023-24,2024-03-03 15:30:00,Manchester City,Manchester United,Home,3,1,W,3,2,27
+2023-24,2024-03-10 15:45:00,Manchester City,Liverpool,Away,1,1,D,1,0,28
+2023-24,2024-03-31 15:30:00,Manchester City,Arsenal,Home,0,0,D,1,0,29
+2023-24,2024-04-03 19:15:00,Manchester City,Aston Villa,Home,4,1,W,3,3,30
+2023-24,2024-04-06 11:30:00,Manchester City,Crystal Palace,Away,4,2,W,3,2,31
+2023-24,2024-04-13 14:00:00,Manchester City,Luton Town,Home,5,1,W,3,4,32
+2023-24,2024-04-25 19:00:00,Manchester City,Brighton,Away,4,0,W,3,4,33
+2023-24,2024-04-28 15:30:00,Manchester City,Nottingham Forest,Away,2,0,W,3,2,34
+2023-24,2024-05-04 16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1,W,3,4,35
+2023-24,2024-05-11 11:30:00,Manchester City,Fulham,Away,4,0,W,3,4,36
+2023-24,2024-05-14 19:00:00,Manchester City,Tottenham Hotspur,Away,2,0,W,3,2,37
+2023-24,2024-05-19 15:00:00,Manchester City,West Ham United,Home,3,1,W,3,2,38
+2023-24,2023-08-14 19:00:00,Manchester United,Wolverhampton Wanderers,Home,1,0,W,3,1,1
+2023-24,2023-08-19 16:30:00,Manchester United,Tottenham Hotspur,Away,0,2,L,0,-2,2
+2023-24,2023-08-26 14:00:00,Manchester United,Nottingham Forest,Home,3,2,W,3,1,3
+2023-24,2023-09-03 15:30:00,Manchester United,Arsenal,Away,1,3,L,0,-2,4
+2023-24,2023-09-16 14:00:00,Manchester United,Brighton,Home,1,3,L,0,-2,5
+2023-24,2023-09-23 19:00:00,Manchester United,Burnley,Away,1,0,W,3,1,6
+2023-24,2023-09-30 14:00:00,Manchester United,Crystal Palace,Home,0,1,L,0,-1,7
+2023-24,2023-10-07 14:00:00,Manchester United,Brentford,Home,2,1,W,3,1,8
+2023-24,2023-10-21 19:00:00,Manchester United,Sheffield United,Away,2,1,W,3,1,9
+2023-24,2023-10-29 15:30:00,Manchester United,Manchester City,Home,0,3,L,0,-3,10
+2023-24,2023-11-04 12:30:00,Manchester United,Fulham,Away,1,0,W,3,1,11
+2023-24,2023-11-11 15:00:00,Manchester United,Luton Town,Home,1,0,W,3,1,12
+2023-24,2023-11-26 16:30:00,Manchester United,Everton,Away,3,0,W,3,3,13
+2023-24,2023-12-02 20:00:00,Manchester United,Newcastle United,Away,0,1,L,0,-1,14
+2023-24,2023-12-06 20:15:00,Manchester United,Chelsea,Home,2,1,W,3,1,15
+2023-24,2023-12-09 15:00:00,Manchester United,Bournemouth,Home,0,3,L,0,-3,16
+2023-24,2023-12-17 16:30:00,Manchester United,Liverpool,Away,0,0,D,1,0,17
+2023-24,2023-12-23 12:30:00,Manchester United,West Ham United,Away,0,2,L,0,-2,18
+2023-24,2023-12-26 20:00:00,Manchester United,Aston Villa,Home,3,2,W,3,1,19
+2023-24,2023-12-30 17:30:00,Manchester United,Nottingham Forest,Away,1,2,L,0,-1,20
+2023-24,2024-01-14 16:30:00,Manchester United,Tottenham Hotspur,Home,2,2,D,1,0,21
+2023-24,2024-02-01 20:15:00,Manchester United,Wolverhampton Wanderers,Away,4,3,W,3,1,22
+2023-24,2024-02-04 14:00:00,Manchester United,West Ham United,Home,3,0,W,3,3,23
+2023-24,2024-02-11 16:30:00,Manchester United,Aston Villa,Away,2,1,W,3,1,24
+2023-24,2024-02-18 16:30:00,Manchester United,Luton Town,Away,2,1,W,3,1,25
+2023-24,2024-02-24 15:00:00,Manchester United,Fulham,Home,1,2,L,0,-1,26
+2023-24,2024-03-03 15:30:00,Manchester United,Manchester City,Away,1,3,L,0,-2,27
+2023-24,2024-03-09 12:30:00,Manchester United,Everton,Home,2,0,W,3,2,28
+2023-24,2024-03-30 20:00:00,Manchester United,Brentford,Away,1,1,D,1,0,29
+2023-24,2024-04-04 19:15:00,Manchester United,Chelsea,Away,3,4,L,0,-1,30
+2023-24,2024-04-07 14:30:00,Manchester United,Liverpool,Home,2,2,D,1,0,31
+2023-24,2024-04-13 16:30:00,Manchester United,Bournemouth,Away,2,2,D,1,0,32
+2023-24,2024-04-24 19:00:00,Manchester United,Sheffield United,Home,4,2,W,3,2,33
+2023-24,2024-04-27 14:00:00,Manchester United,Burnley,Home,1,1,D,1,0,34
+2023-24,2024-05-06 19:00:00,Manchester United,Crystal Palace,Away,0,4,L,0,-4,35
+2023-24,2024-05-12 15:30:00,Manchester United,Arsenal,Home,0,1,L,0,-1,36
+2023-24,2024-05-15 19:00:00,Manchester United,Newcastle United,Home,3,2,W,3,1,37
+2023-24,2024-05-19 15:00:00,Manchester United,Brighton,Away,2,0,W,3,2,38
+2023-24,2023-08-12 16:30:00,Newcastle United,Aston Villa,Home,5,1,W,3,4,1
+2023-24,2023-08-19 19:00:00,Newcastle United,Manchester City,Away,0,1,L,0,-1,2
+2023-24,2023-08-27 15:30:00,Newcastle United,Liverpool,Home,1,2,L,0,-1,3
+2023-24,2023-09-02 16:30:00,Newcastle United,Brighton,Away,1,3,L,0,-2,4
+2023-24,2023-09-16 16:30:00,Newcastle United,Brentford,Home,1,0,W,3,1,5
+2023-24,2023-09-24 15:30:00,Newcastle United,Sheffield United,Away,8,0,W,3,8,6
+2023-24,2023-09-30 14:00:00,Newcastle United,Burnley,Home,2,0,W,3,2,7
+2023-24,2023-10-08 13:00:00,Newcastle United,West Ham United,Away,2,2,D,1,0,8
+2023-24,2023-10-21 14:00:00,Newcastle United,Crystal Palace,Home,4,0,W,3,4,9
+2023-24,2023-10-28 16:30:00,Newcastle United,Wolverhampton Wanderers,Away,2,2,D,1,0,10
+2023-24,2023-11-04 17:30:00,Newcastle United,Arsenal,Home,1,0,W,3,1,11
+2023-24,2023-11-11 17:30:00,Newcastle United,Bournemouth,Away,0,2,L,0,-2,12
+2023-24,2023-11-25 15:00:00,Newcastle United,Chelsea,Home,4,1,W,3,3,13
+2023-24,2023-12-02 20:00:00,Newcastle United,Manchester United,Home,1,0,W,3,1,14
+2023-24,2023-12-07 19:30:00,Newcastle United,Everton,Away,0,3,L,0,-3,15
+2023-24,2023-12-10 16:30:00,Newcastle United,Tottenham Hotspur,Away,1,4,L,0,-3,16
+2023-24,2023-12-16 15:00:00,Newcastle United,Fulham,Home,3,0,W,3,3,17
+2023-24,2023-12-23 15:00:00,Newcastle United,Luton Town,Away,0,1,L,0,-1,18
+2023-24,2023-12-26 12:30:00,Newcastle United,Nottingham Forest,Home,1,3,L,0,-2,19
+2023-24,2024-01-01 20:00:00,Newcastle United,Liverpool,Away,2,4,L,0,-2,20
+2023-24,2024-01-13 17:30:00,Newcastle United,Manchester City,Home,2,3,L,0,-1,21
+2023-24,2024-01-30 20:15:00,Newcastle United,Aston Villa,Away,3,1,W,3,2,22
+2023-24,2024-02-03 15:00:00,Newcastle United,Luton Town,Home,4,4,D,1,0,23
+2023-24,2024-02-10 17:30:00,Newcastle United,Nottingham Forest,Away,3,2,W,3,1,24
+2023-24,2024-02-17 15:00:00,Newcastle United,Bournemouth,Home,2,2,D,1,0,25
+2023-24,2024-02-24 20:00:00,Newcastle United,Arsenal,Away,1,4,L,0,-3,26
+2023-24,2024-03-02 15:00:00,Newcastle United,Wolverhampton Wanderers,Home,3,0,W,3,3,27
+2023-24,2024-03-11 20:00:00,Newcastle United,Chelsea,Away,2,3,L,0,-1,28
+2023-24,2024-03-30 12:30:00,Newcastle United,West Ham United,Home,4,3,W,3,1,29
+2023-24,2024-04-02 18:30:00,Newcastle United,Everton,Home,1,1,D,1,0,30
+2023-24,2024-04-06 14:00:00,Newcastle United,Fulham,Away,1,0,W,3,1,31
+2023-24,2024-04-13 11:30:00,Newcastle United,Tottenham Hotspur,Home,4,0,W,3,4,32
+2023-24,2024-04-24 19:00:00,Newcastle United,Crystal Palace,Away,0,2,L,0,-2,33
+2023-24,2024-04-27 14:00:00,Newcastle United,Sheffield United,Home,5,1,W,3,4,34
+2023-24,2024-05-04 14:00:00,Newcastle United,Burnley,Away,4,1,W,3,3,35
+2023-24,2024-05-11 14:00:00,Newcastle United,Brighton,Home,1,1,D,1,0,36
+2023-24,2024-05-15 19:00:00,Newcastle United,Manchester United,Away,2,3,L,0,-1,37
+2023-24,2024-05-19 15:00:00,Newcastle United,Brentford,Away,4,2,W,3,2,38
+2023-24,2023-08-12 12:00:00,Nottingham Forest,Arsenal,Away,1,2,L,0,-1,1
+2023-24,2023-08-18 18:45:00,Nottingham Forest,Sheffield United,Home,2,1,W,3,1,2
+2023-24,2023-08-26 14:00:00,Nottingham Forest,Manchester United,Away,2,3,L,0,-1,3
+2023-24,2023-09-02 14:00:00,Nottingham Forest,Chelsea,Away,1,0,W,3,1,4
+2023-24,2023-09-18 18:45:00,Nottingham Forest,Burnley,Home,1,1,D,1,0,5
+2023-24,2023-09-23 14:00:00,Nottingham Forest,Manchester City,Away,0,2,L,0,-2,6
+2023-24,2023-10-01 13:00:00,Nottingham Forest,Brentford,Home,1,1,D,1,0,7
+2023-24,2023-10-07 16:30:00,Nottingham Forest,Crystal Palace,Away,0,0,D,1,0,8
+2023-24,2023-10-21 14:00:00,Nottingham Forest,Luton Town,Home,2,2,D,1,0,9
+2023-24,2023-10-29 14:00:00,Nottingham Forest,Liverpool,Away,0,3,L,0,-3,10
+2023-24,2023-11-05 14:00:00,Nottingham Forest,Aston Villa,Home,2,0,W,3,2,11
+2023-24,2023-11-12 14:00:00,Nottingham Forest,West Ham United,Away,2,3,L,0,-1,12
+2023-24,2023-11-25 15:00:00,Nottingham Forest,Brighton,Home,2,3,L,0,-1,13
+2023-24,2023-12-02 17:30:00,Nottingham Forest,Everton,Home,0,1,L,0,-1,14
+2023-24,2023-12-06 19:30:00,Nottingham Forest,Fulham,Away,0,5,L,0,-5,15
+2023-24,2023-12-09 15:00:00,Nottingham Forest,Wolverhampton Wanderers,Away,1,1,D,1,0,16
+2023-24,2023-12-15 20:00:00,Nottingham Forest,Tottenham Hotspur,Home,0,2,L,0,-2,17
+2023-24,2023-12-23 15:00:00,Nottingham Forest,Bournemouth,Home,2,3,L,0,-1,18
+2023-24,2023-12-26 12:30:00,Nottingham Forest,Newcastle United,Away,3,1,W,3,2,19
+2023-24,2023-12-30 17:30:00,Nottingham Forest,Manchester United,Home,2,1,W,3,1,20
+2023-24,2024-01-20 17:30:00,Nottingham Forest,Brentford,Away,2,3,L,0,-1,21
+2023-24,2024-01-30 19:30:00,Nottingham Forest,Arsenal,Home,1,2,L,0,-1,22
+2023-24,2024-02-04 14:00:00,Nottingham Forest,Bournemouth,Away,1,1,D,1,0,23
+2023-24,2024-02-10 17:30:00,Nottingham Forest,Newcastle United,Home,2,3,L,0,-1,24
+2023-24,2024-02-17 15:00:00,Nottingham Forest,West Ham United,Home,2,0,W,3,2,25
+2023-24,2024-02-24 15:00:00,Nottingham Forest,Aston Villa,Away,2,4,L,0,-2,26
+2023-24,2024-03-02 15:00:00,Nottingham Forest,Liverpool,Home,0,1,L,0,-1,27
+2023-24,2024-03-10 14:00:00,Nottingham Forest,Brighton,Away,0,1,L,0,-1,28
+2023-24,2024-03-16 15:00:00,Nottingham Forest,Luton Town,Away,1,1,D,1,0,29
+2023-24,2024-03-30 15:00:00,Nottingham Forest,Crystal Palace,Home,1,1,D,1,0,30
+2023-24,2024-04-02 18:30:00,Nottingham Forest,Fulham,Home,3,1,W,3,2,31
+2023-24,2024-04-07 17:00:00,Nottingham Forest,Tottenham Hotspur,Away,1,3,L,0,-2,32
+2023-24,2024-04-13 14:00:00,Nottingham Forest,Wolverhampton Wanderers,Home,2,2,D,1,0,33
+2023-24,2024-04-21 12:30:00,Nottingham Forest,Everton,Away,0,2,L,0,-2,34
+2023-24,2024-04-28 15:30:00,Nottingham Forest,Manchester City,Home,0,2,L,0,-2,35
+2023-24,2024-05-04 14:00:00,Nottingham Forest,Sheffield United,Away,3,1,W,3,2,36
+2023-24,2024-05-11 16:30:00,Nottingham Forest,Chelsea,Home,2,3,L,0,-1,37
+2023-24,2024-05-19 15:00:00,Nottingham Forest,Burnley,Away,2,1,W,3,1,38
+2023-24,2023-08-12 14:00:00,Sheffield United,Crystal Palace,Home,0,1,L,0,-1,1
+2023-24,2023-08-18 18:45:00,Sheffield United,Nottingham Forest,Away,1,2,L,0,-1,2
+2023-24,2023-08-27 13:00:00,Sheffield United,Manchester City,Home,1,2,L,0,-1,3
+2023-24,2023-09-02 11:30:00,Sheffield United,Everton,Home,2,2,D,1,0,4
+2023-24,2023-09-16 14:00:00,Sheffield United,Tottenham Hotspur,Away,1,2,L,0,-1,5
+2023-24,2023-09-24 15:30:00,Sheffield United,Newcastle United,Home,0,8,L,0,-8,6
+2023-24,2023-09-30 14:00:00,Sheffield United,West Ham United,Away,0,2,L,0,-2,7
+2023-24,2023-10-07 14:00:00,Sheffield United,Fulham,Away,1,3,L,0,-2,8
+2023-24,2023-10-21 19:00:00,Sheffield United,Manchester United,Home,1,2,L,0,-1,9
+2023-24,2023-10-28 14:00:00,Sheffield United,Arsenal,Away,0,5,L,0,-5,10
+2023-24,2023-11-04 15:00:00,Sheffield United,Wolverhampton Wanderers,Home,2,1,W,3,1,11
+2023-24,2023-11-12 14:00:00,Sheffield United,Brighton,Away,1,1,D,1,0,12
+2023-24,2023-11-25 15:00:00,Sheffield United,Bournemouth,Home,1,3,L,0,-2,13
+2023-24,2023-12-02 15:00:00,Sheffield United,Burnley,Away,0,5,L,0,-5,14
+2023-24,2023-12-06 19:30:00,Sheffield United,Liverpool,Home,0,2,L,0,-2,15
+2023-24,2023-12-09 15:00:00,Sheffield United,Brentford,Home,1,0,W,3,1,16
+2023-24,2023-12-16 15:00:00,Sheffield United,Chelsea,Away,0,2,L,0,-2,17
+2023-24,2023-12-22 20:00:00,Sheffield United,Aston Villa,Away,1,1,D,1,0,18
+2023-24,2023-12-26 15:00:00,Sheffield United,Luton Town,Home,2,3,L,0,-1,19
+2023-24,2023-12-30 15:00:00,Sheffield United,Manchester City,Away,0,2,L,0,-2,20
+2023-24,2024-01-21 14:00:00,Sheffield United,West Ham United,Home,2,2,D,1,0,21
+2023-24,2024-01-30 20:00:00,Sheffield United,Crystal Palace,Away,2,3,L,0,-1,22
+2023-24,2024-02-03 17:30:00,Sheffield United,Aston Villa,Home,0,5,L,0,-5,23
+2023-24,2024-02-10 15:00:00,Sheffield United,Luton Town,Away,3,1,W,3,2,24
+2023-24,2024-02-18 14:00:00,Sheffield United,Brighton,Home,0,5,L,0,-5,25
+2023-24,2024-02-25 13:30:00,Sheffield United,Wolverhampton Wanderers,Away,0,1,L,0,-1,26
+2023-24,2024-03-04 20:00:00,Sheffield United,Arsenal,Home,0,6,L,0,-6,27
+2023-24,2024-03-09 15:00:00,Sheffield United,Bournemouth,Away,2,2,D,1,0,28
+2023-24,2024-03-30 15:00:00,Sheffield United,Fulham,Home,3,3,D,1,0,29
+2023-24,2024-04-04 18:30:00,Sheffield United,Liverpool,Away,1,3,L,0,-2,30
+2023-24,2024-04-07 16:30:00,Sheffield United,Chelsea,Home,2,2,D,1,0,31
+2023-24,2024-04-13 14:00:00,Sheffield United,Brentford,Away,0,2,L,0,-2,32
+2023-24,2024-04-20 14:00:00,Sheffield United,Burnley,Home,1,4,L,0,-3,33
+2023-24,2024-04-24 19:00:00,Sheffield United,Manchester United,Away,2,4,L,0,-2,34
+2023-24,2024-04-27 14:00:00,Sheffield United,Newcastle United,Away,1,5,L,0,-4,35
+2023-24,2024-05-04 14:00:00,Sheffield United,Nottingham Forest,Home,1,3,L,0,-2,36
+2023-24,2024-05-11 14:00:00,Sheffield United,Everton,Away,0,1,L,0,-1,37
+2023-24,2024-05-19 15:00:00,Sheffield United,Tottenham Hotspur,Home,0,3,L,0,-3,38
+2023-24,2023-08-13 13:00:00,Tottenham Hotspur,Brentford,Away,2,2,D,1,0,1
+2023-24,2023-08-19 16:30:00,Tottenham Hotspur,Manchester United,Home,2,0,W,3,2,2
+2023-24,2023-08-26 11:30:00,Tottenham Hotspur,Bournemouth,Away,2,0,W,3,2,3
+2023-24,2023-09-02 14:00:00,Tottenham Hotspur,Burnley,Away,5,2,W,3,3,4
+2023-24,2023-09-16 14:00:00,Tottenham Hotspur,Sheffield United,Home,2,1,W,3,1,5
+2023-24,2023-09-24 13:00:00,Tottenham Hotspur,Arsenal,Away,2,2,D,1,0,6
+2023-24,2023-09-30 16:30:00,Tottenham Hotspur,Liverpool,Home,2,1,W,3,1,7
+2023-24,2023-10-07 11:30:00,Tottenham Hotspur,Luton Town,Away,1,0,W,3,1,8
+2023-24,2023-10-23 19:00:00,Tottenham Hotspur,Fulham,Home,2,0,W,3,2,9
+2023-24,2023-10-27 19:00:00,Tottenham Hotspur,Crystal Palace,Away,2,1,W,3,1,10
+2023-24,2023-11-06 20:00:00,Tottenham Hotspur,Chelsea,Home,1,4,L,0,-3,11
+2023-24,2023-11-11 12:30:00,Tottenham Hotspur,Wolverhampton Wanderers,Away,1,2,L,0,-1,12
+2023-24,2023-11-26 14:00:00,Tottenham Hotspur,Aston Villa,Home,1,2,L,0,-1,13
+2023-24,2023-12-03 16:30:00,Tottenham Hotspur,Manchester City,Away,3,3,D,1,0,14
+2023-24,2023-12-07 20:15:00,Tottenham Hotspur,West Ham United,Home,1,2,L,0,-1,15
+2023-24,2023-12-10 16:30:00,Tottenham Hotspur,Newcastle United,Home,4,1,W,3,3,16
+2023-24,2023-12-15 20:00:00,Tottenham Hotspur,Nottingham Forest,Away,2,0,W,3,2,17
+2023-24,2023-12-23 15:00:00,Tottenham Hotspur,Everton,Home,2,1,W,3,1,18
+2023-24,2023-12-28 19:30:00,Tottenham Hotspur,Brighton,Away,2,4,L,0,-2,19
+2023-24,2023-12-31 14:00:00,Tottenham Hotspur,Bournemouth,Home,3,1,W,3,2,20
+2023-24,2024-01-14 16:30:00,Tottenham Hotspur,Manchester United,Away,2,2,D,1,0,21
+2023-24,2024-01-31 19:30:00,Tottenham Hotspur,Brentford,Home,3,2,W,3,1,22
+2023-24,2024-02-03 12:30:00,Tottenham Hotspur,Everton,Away,2,2,D,1,0,23
+2023-24,2024-02-10 15:00:00,Tottenham Hotspur,Brighton,Home,2,1,W,3,1,24
+2023-24,2024-02-17 15:00:00,Tottenham Hotspur,Wolverhampton Wanderers,Home,1,2,L,0,-1,25
+2023-24,2024-03-02 15:00:00,Tottenham Hotspur,Crystal Palace,Home,3,1,W,3,2,26
+2023-24,2024-03-10 13:00:00,Tottenham Hotspur,Aston Villa,Away,4,0,W,3,4,27
+2023-24,2024-03-16 17:30:00,Tottenham Hotspur,Fulham,Away,0,3,L,0,-3,28
+2023-24,2024-03-30 15:00:00,Tottenham Hotspur,Luton Town,Home,2,1,W,3,1,29
+2023-24,2024-04-02 19:15:00,Tottenham Hotspur,West Ham United,Away,1,1,D,1,0,30
+2023-24,2024-04-07 17:00:00,Tottenham Hotspur,Nottingham Forest,Home,3,1,W,3,2,31
+2023-24,2024-04-13 11:30:00,Tottenham Hotspur,Newcastle United,Away,0,4,L,0,-4,32
+2023-24,2024-04-28 13:00:00,Tottenham Hotspur,Arsenal,Home,2,3,L,0,-1,33
+2023-24,2024-05-02 18:30:00,Tottenham Hotspur,Chelsea,Away,0,2,L,0,-2,34
+2023-24,2024-05-05 15:30:00,Tottenham Hotspur,Liverpool,Away,2,4,L,0,-2,35
+2023-24,2024-05-11 14:00:00,Tottenham Hotspur,Burnley,Home,2,1,W,3,1,36
+2023-24,2024-05-14 19:00:00,Tottenham Hotspur,Manchester City,Home,0,2,L,0,-2,37
+2023-24,2024-05-19 15:00:00,Tottenham Hotspur,Sheffield United,Away,3,0,W,3,3,38
+2023-24,2023-08-12 14:00:00,West Ham United,Bournemouth,Away,1,1,D,1,0,1
+2023-24,2023-08-20 15:30:00,West Ham United,Chelsea,Home,3,1,W,3,2,2
+2023-24,2023-08-26 16:30:00,West Ham United,Brighton,Away,3,1,W,3,2,3
+2023-24,2023-09-01 19:00:00,West Ham United,Luton Town,Away,2,1,W,3,1,4
+2023-24,2023-09-16 14:00:00,West Ham United,Manchester City,Home,1,3,L,0,-2,5
+2023-24,2023-09-24 13:00:00,West Ham United,Liverpool,Away,1,3,L,0,-2,6
+2023-24,2023-09-30 14:00:00,West Ham United,Sheffield United,Home,2,0,W,3,2,7
+2023-24,2023-10-08 13:00:00,West Ham United,Newcastle United,Home,2,2,D,1,0,8
+2023-24,2023-10-22 15:30:00,West Ham United,Aston Villa,Away,1,4,L,0,-3,9
+2023-24,2023-10-29 13:00:00,West Ham United,Everton,Home,0,1,L,0,-1,10
+2023-24,2023-11-04 15:00:00,West Ham United,Brentford,Away,2,3,L,0,-1,11
+2023-24,2023-11-12 14:00:00,West Ham United,Nottingham Forest,Home,3,2,W,3,1,12
+2023-24,2023-11-25 15:00:00,West Ham United,Burnley,Away,2,1,W,3,1,13
+2023-24,2023-12-03 14:00:00,West Ham United,Crystal Palace,Home,1,1,D,1,0,14
+2023-24,2023-12-07 20:15:00,West Ham United,Tottenham Hotspur,Away,2,1,W,3,1,15
+2023-24,2023-12-10 14:00:00,West Ham United,Fulham,Away,0,5,L,0,-5,16
+2023-24,2023-12-17 14:00:00,West Ham United,Wolverhampton Wanderers,Home,3,0,W,3,3,17
+2023-24,2023-12-23 12:30:00,West Ham United,Manchester United,Home,2,0,W,3,2,18
+2023-24,2023-12-28 20:15:00,West Ham United,Arsenal,Away,2,0,W,3,2,19
+2023-24,2024-01-02 19:30:00,West Ham United,Brighton,Home,0,0,D,1,0,20
+2023-24,2024-01-21 14:00:00,West Ham United,Sheffield United,Away,2,2,D,1,0,21
+2023-24,2024-02-01 19:30:00,West Ham United,Bournemouth,Home,1,1,D,1,0,22
+2023-24,2024-02-04 14:00:00,West Ham United,Manchester United,Away,0,3,L,0,-3,23
+2023-24,2024-02-11 14:00:00,West Ham United,Arsenal,Home,0,6,L,0,-6,24
+2023-24,2024-02-17 15:00:00,West Ham United,Nottingham Forest,Away,0,2,L,0,-2,25
+2023-24,2024-02-26 20:00:00,West Ham United,Brentford,Home,4,2,W,3,2,26
+2023-24,2024-03-02 15:00:00,West Ham United,Everton,Away,3,1,W,3,2,27
+2023-24,2024-03-10 14:00:00,West Ham United,Burnley,Home,2,2,D,1,0,28
+2023-24,2024-03-17 14:00:00,West Ham United,Aston Villa,Home,1,1,D,1,0,29
+2023-24,2024-03-30 12:30:00,West Ham United,Newcastle United,Away,3,4,L,0,-1,30
+2023-24,2024-04-02 19:15:00,West Ham United,Tottenham Hotspur,Home,1,1,D,1,0,31
+2023-24,2024-04-06 14:00:00,West Ham United,Wolverhampton Wanderers,Away,2,1,W,3,1,32
+2023-24,2024-04-14 13:00:00,West Ham United,Fulham,Home,0,2,L,0,-2,33
+2023-24,2024-04-21 14:00:00,West Ham United,Crystal Palace,Away,2,5,L,0,-3,34
+2023-24,2024-04-27 11:30:00,West Ham United,Liverpool,Home,2,2,D,1,0,35
+2023-24,2024-05-05 13:00:00,West Ham United,Chelsea,Away,0,5,L,0,-5,36
+2023-24,2024-05-11 14:00:00,West Ham United,Luton Town,Home,3,1,W,3,2,37
+2023-24,2024-05-19 15:00:00,West Ham United,Manchester City,Away,1,3,L,0,-2,38
+2023-24,2023-08-14 19:00:00,Wolverhampton Wanderers,Manchester United,Away,0,1,L,0,-1,1
+2023-24,2023-08-19 14:00:00,Wolverhampton Wanderers,Brighton,Home,1,4,L,0,-3,2
+2023-24,2023-08-26 14:00:00,Wolverhampton Wanderers,Everton,Away,1,0,W,3,1,3
+2023-24,2023-09-03 13:00:00,Wolverhampton Wanderers,Crystal Palace,Away,2,3,L,0,-1,4
+2023-24,2023-09-16 11:30:00,Wolverhampton Wanderers,Liverpool,Home,1,3,L,0,-2,5
+2023-24,2023-09-23 14:00:00,Wolverhampton Wanderers,Luton Town,Away,1,1,D,1,0,6
+2023-24,2023-09-30 14:00:00,Wolverhampton Wanderers,Manchester City,Home,2,1,W,3,1,7
+2023-24,2023-10-08 13:00:00,Wolverhampton Wanderers,Aston Villa,Home,1,1,D,1,0,8
+2023-24,2023-10-21 14:00:00,Wolverhampton Wanderers,Bournemouth,Away,2,1,W,3,1,9
+2023-24,2023-10-28 16:30:00,Wolverhampton Wanderers,Newcastle United,Home,2,2,D,1,0,10
+2023-24,2023-11-04 15:00:00,Wolverhampton Wanderers,Sheffield United,Away,1,2,L,0,-1,11
+2023-24,2023-11-11 12:30:00,Wolverhampton Wanderers,Tottenham Hotspur,Home,2,1,W,3,1,12
+2023-24,2023-11-27 20:00:00,Wolverhampton Wanderers,Fulham,Away,2,3,L,0,-1,13
+2023-24,2023-12-02 15:00:00,Wolverhampton Wanderers,Arsenal,Away,1,2,L,0,-1,14
+2023-24,2023-12-05 19:30:00,Wolverhampton Wanderers,Burnley,Home,1,0,W,3,1,15
+2023-24,2023-12-09 15:00:00,Wolverhampton Wanderers,Nottingham Forest,Home,1,1,D,1,0,16
+2023-24,2023-12-17 14:00:00,Wolverhampton Wanderers,West Ham United,Away,0,3,L,0,-3,17
+2023-24,2023-12-24 13:00:00,Wolverhampton Wanderers,Chelsea,Home,2,1,W,3,1,18
+2023-24,2023-12-27 19:30:00,Wolverhampton Wanderers,Brentford,Away,4,1,W,3,3,19
+2023-24,2023-12-30 15:00:00,Wolverhampton Wanderers,Everton,Home,3,0,W,3,3,20
+2023-24,2024-01-22 19:45:00,Wolverhampton Wanderers,Brighton,Away,0,0,D,1,0,21
+2023-24,2024-02-01 20:15:00,Wolverhampton Wanderers,Manchester United,Home,3,4,L,0,-1,22
+2023-24,2024-02-04 14:00:00,Wolverhampton Wanderers,Chelsea,Away,4,2,W,3,2,23
+2023-24,2024-02-10 15:00:00,Wolverhampton Wanderers,Brentford,Home,0,2,L,0,-2,24
+2023-24,2024-02-17 15:00:00,Wolverhampton Wanderers,Tottenham Hotspur,Away,2,1,W,3,1,25
+2023-24,2024-02-25 13:30:00,Wolverhampton Wanderers,Sheffield United,Home,1,0,W,3,1,26
+2023-24,2024-03-02 15:00:00,Wolverhampton Wanderers,Newcastle United,Away,0,3,L,0,-3,27
+2023-24,2024-03-09 15:00:00,Wolverhampton Wanderers,Fulham,Home,2,1,W,3,1,28
+2023-24,2024-03-30 17:30:00,Wolverhampton Wanderers,Aston Villa,Away,0,2,L,0,-2,29
+2023-24,2024-04-02 18:45:00,Wolverhampton Wanderers,Burnley,Away,1,1,D,1,0,30
+2023-24,2024-04-06 14:00:00,Wolverhampton Wanderers,West Ham United,Home,1,2,L,0,-1,31
+2023-24,2024-04-13 14:00:00,Wolverhampton Wanderers,Nottingham Forest,Away,2,2,D,1,0,32
+2023-24,2024-04-20 18:30:00,Wolverhampton Wanderers,Arsenal,Home,0,2,L,0,-2,33
+2023-24,2024-04-24 18:45:00,Wolverhampton Wanderers,Bournemouth,Home,0,1,L,0,-1,34
+2023-24,2024-04-27 14:00:00,Wolverhampton Wanderers,Luton Town,Home,2,1,W,3,1,35
+2023-24,2024-05-04 16:30:00,Wolverhampton Wanderers,Manchester City,Away,1,5,L,0,-4,36
+2023-24,2024-05-11 14:00:00,Wolverhampton Wanderers,Crystal Palace,Home,1,3,L,0,-2,37
+2023-24,2024-05-19 15:00:00,Wolverhampton Wanderers,Liverpool,Away,0,2,L,0,-2,38
